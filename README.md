@@ -18,7 +18,7 @@
 | **9.6**| [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)| | O | |
 | | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | | |
 | | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | | O | |
-| **9.9**| [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)| | | |
+| **9.9**| [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | | O | |
 | | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | | |
 | | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | | | |
 
