@@ -20,5 +20,5 @@
 | | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | | O | |
 | **9.9**| [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | | O | |
 | | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | | |
-| | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | | | |
+| | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | | O | |
 
