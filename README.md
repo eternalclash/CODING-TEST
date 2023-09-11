@@ -11,7 +11,7 @@
 | | [호텔대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | O | O | |
 | **9.4**| [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)| O | O | |
 | | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | O | O | |
-| | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | O | | |
+| | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | O | O | |
 | **9.5**| [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)| O | O | |
 | | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | O | | |
 | | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)| O | O | |
